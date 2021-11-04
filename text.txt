@@ -1,6 +1,6 @@
 31.10.2021 Yauheni
 ***************************************
-Hello world
+
 ---------------------
 <Title>My title</Title>
 Git is a free and open source distributed v
