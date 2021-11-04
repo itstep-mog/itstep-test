@@ -1,7 +1,3 @@
-31.10.2021 Yauheni
-
-
-
 Hello world
 ---------------------
 <Title>My title</Title>
